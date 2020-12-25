@@ -2,3 +2,8 @@
 
 # Museum App
 
+## Demo
+
+![Museum Demo](https://github.com/ammarjussa/MuseumApp-React-Native-/blob/master/museum_demo.gif)
+
+
