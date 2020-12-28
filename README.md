@@ -8,10 +8,7 @@
 
 ## Description
 
-- A Museum app for Rafi Peer Museum
-- User would be able to see artifacts in different categories.
-- User would be notified for latest events and can view upcoming events in the museum.
-- User can change the font size as well as language for the whole app.
+A Museum app for Rafi Peer Museum. Users would be able to see artifacts in different categories. Users would be notified of the latest events and can view upcoming events in the museum. Users can change the font size as well as language for the whole app.
 
 ## Tools Used
 
